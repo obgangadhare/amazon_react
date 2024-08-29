@@ -1,0 +1,35 @@
+.imgsize{
+    height: 330px;
+    width: 313px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+.cardbox{
+    height: 440px;
+    width: 350px;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 25px;
+    
+    
+}
+.cardboxhead{
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+.seemore {
+    
+   margin-top: -20px;
+    margin-left: 20px;
+}
+.seemore a{
+    text-decoration: none;
+}
+.shopbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

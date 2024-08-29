@@ -1,0 +1,76 @@
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    overflow: hidden;
+   
+   
+  }
+  .panelbig{
+    text-align: center;
+    height: 38px;
+    width: 50px;
+  
+  }
+  .panel-all{
+    margin-top: 5px;
+    
+  }
+  .panel p{
+    margin-top: 5px;
+  }
+  .today1{ 
+    text-align: center;
+    height: 38px;
+    width: 130px;
+  }
+  .cust{ 
+    text-align: center;
+    height: 38px;
+    width: 160px;
+  }
+  .reg{ 
+    text-align: center;
+    height: 38px;
+    width: 90px;
+  }
+  .gift{ 
+    text-align: center;
+    height: 38px;
+    width: 100px;
+  }
+  .sel{ 
+    text-align: center;
+    height: 38px;
+    width: 50px;
+  }
+  .amatv{ 
+    text-align: center;
+    height: 38px;
+    width:150px;
+  }.mob{ 
+    text-align: center;
+    height: 38px;
+    width: 80px;
+  }.amapay{ 
+    text-align: center;
+    height: 38px;
+    width: 120px;
+  }.fash{ 
+    text-align: center;
+    height: 38px;
+    width: 70px;
+  }
+  
+  
+  .panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-align: center;
+    height: 38px;
+    width: 190px;
+  
+  }
