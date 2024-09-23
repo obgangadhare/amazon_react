@@ -1,0 +1,94 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cardbox1234{
+    height: 492px;
+    width: 278px;
+    border: .15px solid rgba(0, 0, 0, 0.241);
+    
+ box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+ box-sizing: border-box;
+    background-color:white;
+ 
+    margin-top: 25px;
+    
+    
+}
+.cardbox1234:hover{
+    transform: scale(1.05,1.05);
+}
+.colorspattern{
+    font-size: 13px;
+    color: blue;
+}
+.btnadc1234{
+    margin-left: 10px;
+    background-color: rgb(239, 239, 34);
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 30px;
+    margin-left: 60PX;
+    
+}
+.btnadc1234:hover{
+    background-color: rgb(213, 188, 49);
+}
+.imgsize1234{
+    height: 322px;
+    width: 274px;
+   
+   
+}
+
+.cardbox1234:hover{
+  
+   transform: scale(1.02,1.02);
+    
+}
+
+
+
+.shopbox1234{
+    position: absolute;
+    top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.cardboxdescript1234{
+    color: black;
+    line-height: normal;
+    margin-left: 40px;
+    
+    font-size: 14px;
+    height: 50px;
+    width: 198px;
+}
+.head1234{
+    height: 30px;
+    width: 200px;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.price1234{
+    font-size: 25px;
+    color: rgba(168, 74, 11, 0.952);
+    
+   
+    
+}
+.pricep{
+    margin-left: 40px;
+    font-size: 12px;
+    margin-right: 5px;
+}
+.pricep1{
+    margin-left: 20px;
+    font-size: 12px;
+    text-decoration: line-through;
+}
+

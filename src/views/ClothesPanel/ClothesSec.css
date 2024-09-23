@@ -1,0 +1,11 @@
+.clothessec{
+    
+       position: absolute;
+       top: 0px;
+       height:1330px;
+        width: 100%;
+        background-color:white;
+        z-index: 2;
+       
+    
+}

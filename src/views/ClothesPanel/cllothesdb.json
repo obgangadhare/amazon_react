@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "type": "Men",
+        "heading": "Casual Button Shirts",
+        "img": "https://m.media-amazon.com/images/I/71ymdi3khsL._SX569_.jpg",
+        "price": 560,
+        "path":"/Casualb",
+        "description": "Amazon Brand - INKAST Men's Double Pocket Cotton Shirt | Casual | Plain | Full"
+    },
+    {
+        "id": 2,
+        "type": "Men",
+        "heading": "Formal Dress Shirts",
+        "img": "https://m.media-amazon.com/images/I/41yvf2ritIL._SX342_SY445_.jpg",
+        "price": 850,
+        "path":"/Casualb",
+        "description": "Amazon Brand - Symbol Men's Cotton Shirt | Casual | Plain | Full Sleeve | "
+    },
+    {
+        "id": 3,
+        "type": "Men",
+        "heading": "Short Sleeve Shirts",
+        "img": "https://m.media-amazon.com/images/I/61rwJ-FFdFL._SY879_.jpg",
+        "price": 450,
+        "path":"/Casualb",
+        "description": "Amazon Brand - INKAST Men's Double Pocket Cotton Shirt | Casual | Plain | Full"
+    },
+    {
+        "id": 4,
+        "type": "Men",
+        "heading": "Flannel Shirts",
+        "img": "https://m.media-amazon.com/images/I/71VsUBVv-xL._SY879_.jpg",
+        "price": 670,
+        "path":"/Casualb",
+        "description": "Amazon Brand - Symbol Men's Cotton Shirt | Casual | Plain | Full Sleeve | "
+    },
+    {
+        "id": 5,
+        "type": "Men",
+        "heading": "Oxford Shirts",
+        "img": "https://m.media-amazon.com/images/I/61HNRJzKW8L._SX679_.jpg",
+        "price": 620,
+        "path":"/Casualb",
+        "description": "CB-COLEBROOK Men's Casual Button Down Shirts"
+    },
+    {
+        "id": 6,
+        "type": "Men",
+        "heading": "Hawaiian Shirts",
+        "img": "https://m.media-amazon.com/images/I/61cWc4JWawL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 500,
+        "path":"/Casualb",
+        "description": "Amazon Brand - INKAST Men's Double Pocket Cotton Shirt | Casual | Plain | Full"
+    },
+    {
+        "id": 7,
+        "type": "Men",
+        "heading": "Henley Shirts",
+        "img": "https://m.media-amazon.com/images/I/71VsUBVv-xL._SY879_.jpg",
+        "price": 540,
+        "path":"/Casualb",
+        "description": "CB-COLEBROOK Men's Casual Button Down Shirts"
+    },
+    {
+        "id": 8,
+        "type": "Men",
+        "heading": "Slim Fit Shirts",
+        "img": "https://m.media-amazon.com/images/I/41yvf2ritIL._SX342_SY445_.jpg",
+        "price": 750,
+        "path":"/Casualb",
+        "description": "DesiAmazon Brand - INKAST Men's Double Pocket Cotton Shirt | Casual | Plain | Full"
+    },
+    {
+        "id": 9,
+        "type": "Men",
+        "heading": "Henley Shirts",
+        "img": "https://m.media-amazon.com/images/I/71VsUBVv-xL._SY879_.jpg",
+        "price": 540,
+        "path":"/Casualb",
+        "description": "CB-COLEBROOK Men's Casual Button Down Shirts"
+    },
+    {
+        "id": 10,
+        "type": "Men",
+        "heading": "Slim Fit Shirts",
+        "img": "https://m.media-amazon.com/images/I/41yvf2ritIL._SX342_SY445_.jpg",
+        "price": 750,
+        "path":"/Casualb",
+        "description": "Amazon Brand - INKAST Men's Double Pocket Cotton Shirt | Casual | Plain | Full"
+    }
+   
+]

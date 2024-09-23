@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "type": "Mobile",
+        "img": "https://m.media-amazon.com/images/I/41tS3gyOW1L._SX300_SY300_QL70_FMwebp_.jpg",
+        "off": 20,
+        "description": "iQOO Z9s 5G (Onyx Green, 8GB RAM, 128GB Storage)"
+    },
+    {
+        "id": 2,
+        "type": "Mobile",
+        "img": "https://m.media-amazon.com/images/I/31hcJbP0BuL._SX300_SY300_QL70_FMwebp_.jpg",
+        "off": 15,
+        "description": "Samsung Galaxy S23 Ultra (Phantom Black, 12GB RAM, 256GB Storage)"
+    },
+    {
+        "id": 3,
+        "type": "Mobile",
+        "img": "https://m.media-amazon.com/images/I/411G1EtoIIL._SX300_SY300_QL70_FMwebp_.jpg",
+        "off": 10,
+        "description": "Apple iPhone 14 Pro Max (Space Black, 6GB RAM, 128GB Storage)"
+    },
+    {
+        "id": 4,
+        "type": "Mobile",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41m-C1HHkIL._SX300_SY300_QL70_FMwebp_.jpg",
+        "off": 18,
+        "description": "OnePlus 11 (Eternal Green, 16GB RAM, 256GB Storage)"
+    },
+    {
+        "id": 5,
+        "type": "Mobile",
+        "img": "https://m.media-amazon.com/images/I/41nRYrr3FGL._SX300_SY300_QL70_FMwebp_.jpg",
+        "off": 25,
+        "description": "Xiaomi Mi 13 Pro (Black, 12GB RAM, 256GB Storage)"
+    },
+    {
+        "id": 6,
+        "type": "Mobile",
+        "img": "https://m.media-amazon.com/images/I/41tS3gyOW1L._SX300_SY300_QL70_FMwebp_.jpg",
+        "off": 22,
+        "description": "Google Pixel 8 Pro (Obsidian, 12GB RAM, 128GB Storage)"
+    },
+    {
+        "id": 7,
+        "type": "Mobile",
+        "img": "https://m.media-amazon.com/images/I/31hcJbP0BuL._SX300_SY300_QL70_FMwebp_.jpg",
+        "off": 12,
+        "description": "Sony Xperia 1 IV (Black, 12GB RAM, 256GB Storage)"
+    },
+    {
+        "id": 8,
+        "type": "Mobile",
+        "img": "https://m.media-amazon.com/images/I/41tS3gyOW1L._SX300_SY300_QL70_FMwebp_.jpg",
+        "off": 20,
+        "description": "Oppo Find X5 Pro (Glaze Blue, 12GB RAM, 256GB Storage)"
+    },
+    {
+        "id": 9,
+        "type": "Mobile",
+        "img": "https://m.media-amazon.com/images/I/31hcJbP0BuL._SX300_SY300_QL70_FMwebp_.jpg",
+        "off": 28,
+        "description": "Huawei Mate 50 Pro (Silver, 8GB RAM, 256GB Storage)"
+    },
+    {
+        "id": 10,
+        "type": "Mobile",
+        "img": "https://m.media-amazon.com/images/I/41tS3gyOW1L._SX300_SY300_QL70_FMwebp_.jpg",
+        "off": 18,
+        "description": "Realme GT 2 Pro (Nebula Blue, 12GB RAM, 256GB Storage)"
+    }
+]

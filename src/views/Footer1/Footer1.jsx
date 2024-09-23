@@ -1,11 +1,11 @@
 import React,{Component} from "react";
 import amazon_logo from './images/amazon_logo.png';
-import {Link} from 'react-router-dom';
-import './Footer.css';
-class Footer extends Component{ // React.Component
+
+import './Footer1.css';
+class Footer1 extends Component{ // React.Component
     render(){
         return(
-            <footer>
+            <footer1>
             <div className="foot-panel1">
             <a className="backtopcss" href="#backtotop">Back To Top</a>
             </div>
@@ -62,9 +62,9 @@ class Footer extends Component{ // React.Component
                     © 1996-2024, Amazon.com, Inc. or its affiliates
                 </div>
             </div>
-        </footer>
+        </footer1>
         );
     }
 };
 
-export default Footer;
+export default Footer1;

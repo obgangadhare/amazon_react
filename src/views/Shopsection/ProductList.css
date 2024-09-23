@@ -1,5 +1,5 @@
 .imgsize{
-    height: 330px;
+    height: 380px;
     width: 313px;
     margin-left: 1rem;
     margin-right: 1rem;
@@ -7,27 +7,24 @@
     margin-bottom: 2rem;
 }
 .cardbox{
-    height: 440px;
+    height: 490px;
     width: 350px;
-    background-color: white;
+    background-color:white;
     padding: 20px 0px 15px;
     margin-top: 25px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
     
-    
+}
+.cardbox:hover{
+    transform: scale(1.05,1.05);
 }
 .cardboxhead{
     font-size: 20px;
     font-weight: 700;
     margin-left: 20px;
 }
-.seemore {
-    
-   margin-top: -20px;
-    margin-left: 20px;
-}
-.seemore a{
-    text-decoration: none;
-}
+
+
 .shopbox{
     display: flex;
     flex-wrap: wrap;

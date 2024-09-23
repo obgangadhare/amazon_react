@@ -1,0 +1,18 @@
+.clothessec{
+    
+    position: absolute;
+    top: 0px;
+    height:1330px;
+     width: 100%;
+     background-color:white;
+     z-index: 2;
+    
+ 
+}
+.cartno{
+    position: absolute;
+    top: 8px;
+    left: 1410px;
+    font-size: 20px;
+    color: white;
+}

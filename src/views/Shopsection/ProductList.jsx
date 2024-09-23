@@ -1,6 +1,6 @@
 import React from "react";
 import './ProductList.css';
-
+import { Link } from "react-router-dom";
 
 const ProductList = (prodlist) =>{     
     const renderList = ({prodlist}) => { 
@@ -12,9 +12,9 @@ const ProductList = (prodlist) =>{
                         <div className="cardbox">
                         <span className="cardboxhead">{data.heading}</span>
                             <div className="cardboximg">
-                                <img className="imgsize" src={data.img} alt={data.heading}/>
+                            <Link to ={data.path} ><img className="imgsize" src={data.img} alt={data.heading}/></Link>  
                             </div>
-                          <p className="seemore" ><a  href="#" target="_blank" >See more</a></p>
+                         
                             </div>
                          </div>
                         
