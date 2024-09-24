@@ -11,8 +11,10 @@ import Footer1 from '../Footer1/Footer1';
 class Clothessec extends Component {
     constructor() {
         super();
+        const currentCount = parseInt(localStorage.getItem('cartCount')) || 0;
         this.state = { 
             products: JSON,
+            cartCount: currentCount
            
         };
     }
@@ -20,10 +22,9 @@ class Clothessec extends Component {
    
     handleAddToCart = () => {
        
-        const currentCount = parseInt(localStorage.getItem('cartCount')) || 0;
-        localStorage.setItem('cartCount', currentCount + 1);
-      
-        this.forceUpdate(); 
+        const newCount = this.state.cartCount + 1;
+        localStorage.setItem('cartCount', newCount);
+        this.setState({ cartCount: newCount })
     };
     
     render() {
