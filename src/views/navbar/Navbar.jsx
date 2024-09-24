@@ -1,7 +1,7 @@
 import React,{useState} from "react";
 import { Link } from 'react-router-dom';
 import amazon_logo from './images/amazon_logo.png';
-import Login from "../../Loginpage/Login";
+import Login from "../Loginpage/Login";
 import './Navbar.css';
 
 const Navbar = () => {

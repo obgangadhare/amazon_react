@@ -1,6 +1,6 @@
 import React,{useState} from "react";
 import "./Login.css";
-import Signup from "../Signup/Signup";
+
 import { Link } from "react-router-dom";
 const Login = ({onClose}) => {
    

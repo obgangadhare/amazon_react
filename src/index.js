@@ -7,7 +7,7 @@ import ClothesSec from './views/ClothesPanel/ClothesSec';
 import Todaysdealsec from './views/Todaysdeals/Todaysdealsec';
 import Bestselsec from './views/Bestsel/Bestselsec';
 import ScrollToTop from './views/Scrolltotop';
-import Signup from './Signup/Signup';
+import Signup from './views/Signup/Signup';
 
 
 
