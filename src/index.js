@@ -6,7 +6,7 @@ import App from './App';
 import ClothesSec from './views/ClothesPanel/ClothesSec';
 import Todaysdealsec from './views/Todaysdeals/Todaysdealsec';
 import Bestselsec from './views/Bestsel/Bestselsec';
-import ScrollToTop from './views/ScrollToTop/ScrollToTop';
+import ScrollToTop from './views/Scrolltotop';
 import Signup from './Signup/Signup';
 
 
@@ -15,7 +15,7 @@ import Signup from './Signup/Signup';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <Router>
-      <ScrollToTop/>
+    <ScrollToTop/>  
   <div >
    <Routes>
     <Route path="/" element={<App />} />
